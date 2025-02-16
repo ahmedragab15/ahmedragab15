@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ragab</h1>
-<h3 align="center">Front-End Developer with expertise in building responsive web applications. Proficient in HTML, CSS (Bootstrap, Tailwind), JavaScript (ES6+), and experienced with React, Next.js, and Redux. Strong in API integration, responsive design, and creating high-quality user experiences. Knowledgeable in version control, web performance, cross-browser compatibility, and debugging , with a foundation in SEO and e-commerce development Driven to deliver seamless user experiences while constantly learning cutting-edge technologies in front-end development.</h3>
+<h3 align="center">Front-End Developer with expertise in building responsive web applications. Proficient in HTML, CSS (Bootstrap, Tailwind), JavaScript (ES6+), and experienced with React, Next.js, and Redux. Strong in API integration,.</h3>
+  
+<h3 align="center">responsive design, and creating high-quality user experiences. Knowledgeable in version control, web performance, cross-browser compatibility, and debugging , with a foundation in SEO and e-commerce development Driven to deliver seamless user experiences while constantly learning cutting-edge technologies in front-end development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
 
