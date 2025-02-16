@@ -10,7 +10,6 @@
         <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
----
 
 ## 🛠️ **Technologies I Work With**
 
@@ -35,7 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragab15&show_icons=true&locale=en&layout=compact" alt="ahmedragab15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedragab15&show_icons=true&locale=en" alt="ahmedragab15" /></p>
----
+
 <h3 align="left">📍 How to Contact Me</h3>
 
 - **LinkedIn**: https://www.linkedin.com/in/ahmed-ragab-35068b182
