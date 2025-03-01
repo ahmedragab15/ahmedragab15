@@ -1,15 +1,17 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/)
-<h1 align="center">Hi 👋, I'm Ahmed Ragab</h1>
+
+
+<h1 align="center">Hi there, I'm Ahmed Ragab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <h1 align="center">Front-End Developer | React.js</h1>
 
+<div style="margin-bottom:20px">
+        <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+
+</div>
 <h3>Front-End Developer with expertise in building responsive web applications. Proficient in HTML, CSS (Bootstrap, Tailwind), JavaScript (ES6+), and experienced with React, Next.js, and Redux. Strong in API integration,.</h3>
   
 <h3>responsive design, and creating high-quality user experiences. Knowledgeable in version control, web performance, cross-browser compatibility, and debugging , with a foundation in SEO and e-commerce development Driven to deliver seamless user experiences while constantly learning cutting-edge technologies in front-end development.</h3>
-
-<div style="margin-bottom:20px">
-        <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
+
 
 ## 🛠️ **Technologies I Work With**
 
@@ -43,10 +45,5 @@
 
 ---
 
-## 💡 **Contributing to Projects**
 
-If you're interested in contributing to any of my projects or have an idea for a new one, feel free to reach out!
-
----
-
-**Thanks for visiting my profile!** 🌟
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/)
