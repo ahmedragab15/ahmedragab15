@@ -41,7 +41,6 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="86" height="86" title="Docker"/></div>
         
 <p style="display: flex; align-items: flex-start;"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="86" height="86" title="Node JS"/>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="86" height="86" title="Tailwind"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="86" height="86" title="Bootstrap"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="86" height="86" title="Css"/> 
