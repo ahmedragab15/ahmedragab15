@@ -57,10 +57,13 @@
 ## 📊 **GitHub Stats**  
 
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedragab15&theme=radical" width="70%" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragab15&layout=compact&theme=dracula&langs_count=6" height="150" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedragab15&show_icons=true&theme=dracula&count_private=true" height="150" alt="Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedragab15&theme=radical&hide_border=false" alt="Mark streak" />
 </div>
+
+
+
 
 
 
