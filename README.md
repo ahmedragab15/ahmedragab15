@@ -44,7 +44,7 @@
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="80" height="80" title="Sass"/>
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" title="Jest"/>
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="80" height="80" title="Docker"/>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80" title="Tailwind"/>
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="80" height="80" title="Tailwind"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" title="Bootstrap"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" title="Css"/> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" title="Html"/> 
