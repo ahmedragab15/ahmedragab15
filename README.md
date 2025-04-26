@@ -15,7 +15,7 @@
 
 ### **Front-End Development:**
 - **HTML5** | **CSS3** | **JavaScript ES6+** | **TypeScript** | **React.js** | **Next.js** | **Redux Toolkit**
-- **Node JS** | **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Jest** | **Material UI**
+- **Node JS** | **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Material UI** | **Jest**
 
 ### **Other Tools:**
 - **Git** | **GitHub** | **Docker** | **Figma**
