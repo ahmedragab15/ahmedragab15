@@ -5,9 +5,11 @@
         <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="25%">
 </div>
 
-<h4>Front-End Developer with expertise in building responsive web applications. Proficient in HTML, CSS (Bootstrap, Tailwind), JavaScript (ES6+), and experienced with React, Next.js, and Redux. Strong in API integration,.</h3>
-  
-<h4>responsive design, and creating high-quality user experiences. Knowledgeable in version control, web performance, cross-browser compatibility, and debugging , with a foundation in SEO and e-commerce development Driven to deliver seamless user experiences while constantly learning cutting-edge technologies in front-end development.</h3>
+<h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building 
+responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, 
+and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in 
+a professional setting and grow within a collaborative development team. Actively building and sharing projects on GitHub to 
+demonstrate practical skills and a commitment to growth.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
 
 
@@ -15,10 +17,10 @@
 
 ### **Front-End Development:**
 - **HTML5** | **CSS3** | **JavaScript ES6+** | **TypeScript** | **React.js** | **Next.js** | **Redux Toolkit**
-- **Node JS** | **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Material UI** | **Jest**
+- **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Material UI** | **Jest**
 
 ### **Other Tools:**
-- **Git** | **GitHub** | **Docker** | **Figma**
+- **Git** | **GitHub** | **Figma** | **Postman**
 
 ---
 
@@ -43,7 +45,6 @@
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Api" width="80" height="80" title="Rest Api"/>
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="80" height="80" title="Sass"/>
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" title="Jest"/>
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="80" height="80" title="Docker"/>
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="80" height="80" title="Tailwind"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" title="Bootstrap"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" title="Css"/> 
