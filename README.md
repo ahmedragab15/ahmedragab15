@@ -16,7 +16,7 @@ demonstrate practical skills and a commitment to growth.</h4>
 ## 🛠️ **Technologies I Work With**
 
 ### **Front-End Development:**
-- **HTML5** | **CSS3** | **JavaScript ES6+** | **TypeScript** | **React.js** | **Next.js** | **Redux Toolkit**
+- **React.js** | **Next.js** | **JavaScript** | **TypeScript** | **Redux Toolkit** | **React Query**
 - **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Material UI** | **Jest**
 
 ### **Other Tools:**
