@@ -1,41 +1,30 @@
-<h1 align="center">Ahmed Ragab <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ahmed Ragab </h1>
 <h2 align="center">Front-End Developer | React.js</h2>
 
 <div style="margin-bottom:20px">
         <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="25%">
 </div>
 
-<h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building 
-responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, 
-and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in 
-a professional setting and grow within a collaborative development team. Actively building and sharing projects on GitHub to 
-demonstrate practical skills and a commitment to growth.</h4>
+<h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in real-world projects and contribute effectively within agile, team-based environments. Actively building and sharing projects on GitHub to demonstrate practical skills and a commitment to growth.</h4>
+
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1nzspLDnrduij-uQULEU3dIjY-mTAzTs1)
+- 👨‍💻 My [Portfolio](https://ahmedragab.netlify.app)
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
 
 
-## 🛠️ **Technologies I Work With**
+## 🚀 **Skills & Technologies**
 
 ### **Front-End Development:**
-- **React.js** | **Next.js** | **JavaScript** | **TypeScript** | **Redux Toolkit** | **React Query**
-- **REST API** | **Sass** | **Tailwind** | **Bootstrap** | **Material UI** | **Jest**
+- **React.js** | **Next.js** - Building responsive, scalable UIs.
+- **TypeScript** | **JavaScript** | **REST API** | **HTML** | **CSS** - Strong grasp of modern web technologies and best practices.
+- **Tailwind** | **Sass** | **Bootstrap** - Styling with scalable and responsive-first design systems.
 
-### **Other Tools:**
-- **Git** | **GitHub** | **Figma** | **Postman**
+### **Other:**
+- **State Management:** Redux, Context API.
+- **Version Control:** Git, GitHub.
+- **Testing & Automation:** Jest, Cypress for ensuring code quality.
 
----
-
-## 🔗 **Connect with Me**  
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmedragab15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ragabahmed154@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-</div>
-
----
-## 🚀 **Tech Stack**
 <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="80" height="80" title="Javascript"/>
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="80" height="80" title="Typescript"/>
@@ -55,6 +44,18 @@ demonstrate practical skills and a commitment to growth.</h4>
 
 ---
 
+## 🔗 **Connect with Me**  
+<div align="left">
+  <a href="https://www.linkedin.com/in/ahmedragab15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ragabahmed154@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+</div>
+
+---
+
 ## 📊 **GitHub Stats**  
 
 <div align="center">
@@ -62,8 +63,6 @@ demonstrate practical skills and a commitment to growth.</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragab15&layout=compact&theme=dracula&langs_count=6" height="200" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedragab15&show_icons=true&theme=dracula&count_private=true" height="200" alt="Top Languages" />
 </div>
-
-
 
 
 
