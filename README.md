@@ -19,8 +19,6 @@
 - **React.js** | **Next.js** - Building responsive, scalable UIs.
 - **TypeScript** | **JavaScript** | **REST API** | **HTML** | **CSS** - Strong grasp of modern web technologies and best practices.
 - **Tailwind** | **Sass** | **Bootstrap** - Styling with scalable and responsive-first design systems.
-
-### **Other:**
 - **State Management:** Redux, Context API.
 - **Version Control:** Git, GitHub.
 - **Testing & Automation:** Jest, Cypress for ensuring code quality.
