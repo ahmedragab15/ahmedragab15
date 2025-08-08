@@ -7,7 +7,7 @@
 
 <h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in real-world projects and contribute effectively within agile, team-based environments. Actively building and sharing projects on GitHub to demonstrate practical skills and a commitment to growth.</h4>
 
-<p>- 📄 Check out my <a href="https://drive.google.com/file/d/1UUG7jvF0rGOqPupz_rveOv6eyZ7kajMI" target="_blank">Resume</a></p>
+<p>- 📄 Check out my <a href="https://drive.google.com/file/d/14FHE2JrW-cHUNPT-fbldk6MwG-yadQ_m" target="_blank">Resume</a></p>
 <p>- 👨‍💻 My <a href="https://ahmedragab.netlify.app" target="_blank">Portfolio</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
