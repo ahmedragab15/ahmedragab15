@@ -7,7 +7,7 @@
 
 <h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in real-world projects and contribute effectively within agile, team-based environments. Actively building and sharing projects on GitHub to demonstrate practical skills and a commitment to growth.</h4>
 
-<p>- 📄 Check out my <a href="https://drive.google.com/file/d/1C2RYo_sy82GPcxpu92D12nuy3zPgoOEW" target="_blank">Resume</a></p>
+<p>- 📄 Check out my <a href="https://drive.google.com/file/d/1bqUJ8yoWtSDTLNetRlG16OwcpnVVRY0N/view?usp=sharing" target="_blank">Resume</a></p>
 <p>- 👨‍💻 My <a href="https://ahmedragab.netlify.app" target="_blank">Portfolio</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
@@ -16,13 +16,13 @@
 ## 🚀 **Skills & Technologies**
 
 ### **Front-End Development:**
-- React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass/SCSS, Redux Toolkit, React Query, Tailwind CSS, Shadcn/UI, Bootstrap, MUI, Chakra UI, Syncfusion, GSAP, Framer Motion, React Hook Form + Yup, i18n.
+- React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass / SCSS, Redux Toolkit, React Query, Tailwind CSS, Shadcn/UI, Bootstrap, MUI, Chakra UI, Syncfusion, GSAP, Framer Motion, React Hook Form + Yup, i18n.
 ### **Backend & Database:**
 - Strapi, Prisma, MongoDB, PostgreSQL, Appwrite
 ### **API & Integrations:**
 - REST API, Axios, Postman, Payment Integration (Stripe), Google Auth, NextAuth, Sentry.
-### **Tools & Collaboration:**
-- Git / GitHub, Figma.
+### **Tools & Testing:**
+- Git / GitHub, Figma, Jest, React Testing Library.
 
 <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="80" height="80" title="Javascript"/>
