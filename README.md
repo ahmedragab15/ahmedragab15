@@ -16,12 +16,13 @@
 ## 🚀 **Skills & Technologies**
 
 ### **Front-End Development:**
-- **React.js** | **Next.js** - Building responsive, scalable UIs.
-- **TypeScript** | **JavaScript** | **REST API** | **HTML** | **CSS** - Strong grasp of modern web technologies and best practices.
-- **Tailwind** | **Sass** | **Bootstrap** - Styling with scalable and responsive-first design systems.
-- **State Management:** Redux, Context API.
-- **Version Control:** Git, GitHub.
-- **Testing & Automation:** Jest, Cypress for ensuring code quality.
+- React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass/SCSS, Redux Toolkit, React Query, Tailwind CSS, Shadcn/UI, Bootstrap, MUI, Chakra UI, Syncfusion, GSAP, Framer Motion, React Hook Form + Yup, i18n.
+### **Backend & Database:**
+- Strapi, Prisma, MongoDB, PostgreSQL, Appwrite
+### **API & Integrations:**
+- REST API, Axios, Postman, Payment Integration (Stripe), Google Auth, NextAuth, Sentry.
+### **Tools & Collaboration:**
+- Git / GitHub, Figma.
 
 <div style="display: flex; align-items: flex-start;">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="80" height="80" title="Javascript"/>
