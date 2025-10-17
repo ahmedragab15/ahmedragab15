@@ -48,8 +48,11 @@
   <a href="https://www.linkedin.com/in/ahmedragab15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:ragabahmed154@gmail.com">
+  <a href="mailto:ragabahmed154@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/201229140830" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" height="35" alt="Whatsapp" />
   </a>
 </div>
 
