@@ -21,6 +21,8 @@
 - Strapi, Prisma, MongoDB, PostgreSQL, Appwrite
 ### **API & Integrations:**
 - REST API, Axios, Postman, Payment Integration (Stripe), Google Auth, NextAuth, Sentry.
+### **Project Management & Workflow:**
+- Agile Methodology (Scrum) - Jira, Trello, ClickUp.
 ### **Tools & Testing:**
 - Git / GitHub, Figma, Jest, React Testing Library.
 
