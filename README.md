@@ -1,74 +1,75 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Ahmed Ragab </h1>
-<h2 align="center">Front-End Developer | React.js</h2>
+<h1 align="center">Ahmed Ragab</h1>
+<h3 align="center">Frontend Developer &nbsp;·&nbsp; React / Next.js</h3>
 
-<div style="margin-bottom:20px">
-        <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="25%">
-</div>
+<br/>
 
-<h4>Motivated Front-End Developer with practical experience gained through personal and collaborative projects. Skilled in building responsive, user-friendly interfaces. Proficient in modern front-end technologies including JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS, with a strong focus on performance and clean, maintainable code. Eager to apply modern front-end skills in real-world projects and contribute effectively within agile, team-based environments. Actively building and sharing projects on GitHub to demonstrate practical skills and a commitment to growth.</h4>
+<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="22%"/>
 
-<p>- 📄 Check out my <a href="https://drive.google.com/file/d/1bqUJ8yoWtSDTLNetRlG16OwcpnVVRY0N/view?usp=sharing" target="_blank">Resume</a></p>
-<p>- 👨‍💻 My <a href="https://ahmedragab.netlify.app" target="_blank">Portfolio</a></p>
+I build fast, accessible, production-ready web applications - from pixel-perfect landing pages to complex dashboards and e-commerce platforms.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedragab15&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedragab15" /> </p>
+- **20+ projects** delivered as a freelancer across MENA
+- Specialized in **React, Next.js, TypeScript, and Tailwind CSS**
+- Performance-obsessed - achieved a **perfect Lighthouse score** in production
+- Contributed to the **2025 NASA Space Apps Challenge** (air quality forecasting with TEMPO satellite data)
+- Open to **full-time roles** and **freelance collaborations**
 
+<br/>
 
-## 🚀 **Skills & Technologies**
-
-### **Front-End Development:**
-- React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass / SCSS, Redux Toolkit, React Query, Tailwind CSS, Shadcn/UI, Bootstrap, MUI, Chakra UI, Syncfusion, GSAP, Framer Motion, React Hook Form + Yup, i18n.
-### **Backend & Database:**
-- Strapi, Prisma, MongoDB, PostgreSQL, Appwrite
-### **API & Integrations:**
-- REST API, Axios, Postman, Payment Integration (Stripe), Google Auth, NextAuth, Sentry.
-### **Project Management & Workflow:**
-- Agile Methodology (Scrum) - Jira, Trello, ClickUp.
-### **Tools & Testing:**
-- Git / GitHub, Figma, Jest, React Testing Library.
-
-<div style="display: flex; align-items: flex-start;">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="80" height="80" title="Javascript"/>
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" width="80" height="80" title="Typescript"/>
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="80" height="80" title="React"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80" title="Next"/>
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="80" height="80" title="Redux"/>
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest Api" width="80" height="80" title="Rest Api"/>
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="80" height="80" title="Sass"/>
-        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="80" height="80" title="Jest"/>
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="80" height="80" title="Tailwind"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" title="Bootstrap"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" title="Css"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" title="Html"/> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" title="Git"/>
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80" title="Figma"/> 
-</div>
+📄 [Resume](https://drive.google.com/file/d/1bqUJ8yoWtSDTLNetRlG16OwcpnVVRY0N/view?usp=sharing) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Portfolio](https://ahmedragab.netlify.app)
 
 ---
 
-## 🔗 **Connect with Me**  
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmedragab15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ragabahmed154@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/201229140830" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" height="35" alt="Whatsapp" />
-  </a>
-</div>
+## What I Build
+
+**Interfaces** — React, Next.js, TypeScript, Tailwind CSS, Shadcn/UI, GSAP, Framer Motion
+
+**State & Data** — Redux Toolkit, Zustand, React Query, RTK Query
+
+**Platforms** — Shopify, Salla, Odoo, Strapi, Appwrite
+
+**Backend / DB** — Prisma, PostgreSQL, MongoDB
+
+**Auth & Payments** — NextAuth, Google Auth, Stripe
+
+**Testing & Tooling** — Jest, React Testing Library, Sentry, Figma, Git
 
 ---
 
-## 📊 **GitHub Stats**  
+## Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[AjMarketing](https://www.ajmarketing.pro)** | Next.js, OpenAI, Twilio | AI lead capture + WhatsApp bot with human handover |
+| **[Ahmed Academy](https://ahmed-academy.vercel.app)** | Next.js, Prisma, PostgreSQL | Full e-learning platform with auth, payments, instructor dashboard |
+| **[Garden Physio](https://www.gardenphysioclinic.com)** | Next.js 16, React 19, Next-Intl | Multilingual clinic PWA with RTL + serverless booking |
+| **[Dr. Reema](https://www.drreemaalmujaini.site)** | Next.js, Prisma, Cloudinary | Bilingual medical site + full CMS admin dashboard |
+| **[Blogo](https://www.blogoo.co)** | Next.js, i18next, Zod | Bilingual SaaS landing with Google Sheets integration |
+| **[Spylt](https://spylt-gsap-website.vercel.app)** | Next.js, GSAP | Award-inspired scroll animations + clip-path transitions |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedragab15&theme=radical" width="100%" height="250" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragab15&layout=compact&theme=dracula&langs_count=6" height="200" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedragab15&show_icons=true&theme=dracula&count_private=true" height="200" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedragab15&theme=radical" width="100%" height="220"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedragab15&layout=compact&theme=dracula&langs_count=6" height="180"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedragab15&show_icons=true&theme=dracula&count_private=true" height="180"/>
 </div>
 
+---
 
+## Connect
 
-
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-8029-b011-1a8803c5730d)](https://github.com/)
+<a href="https://www.linkedin.com/in/ahmedragab15" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="32"/>
+</a>
+&nbsp;
+<a href="mailto:ragabahmed154@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="32"/>
+</a>
+&nbsp;
+<a href="https://wa.me/201229140830" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" height="32"/>
+</a>
