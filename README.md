@@ -7,7 +7,7 @@
 
 I build fast, accessible, production-ready web applications - from pixel-perfect landing pages to complex dashboards and e-commerce platforms.
 
-- **20+ projects** delivered as a freelancer across MENA
+- **25+ projects** delivered as a freelancer across MENA
 - Specialized in **React, Next.js, TypeScript, and Tailwind CSS**
 - Performance-obsessed - achieved a **perfect Lighthouse score** in production
 - Contributed to the **2025 NASA Space Apps Challenge** (air quality forecasting with TEMPO satellite data)
@@ -32,19 +32,6 @@ I build fast, accessible, production-ready web applications - from pixel-perfect
 **Auth & Payments** — NextAuth, Google Auth, Stripe
 
 **Testing & Tooling** — Jest, React Testing Library, Sentry, Figma, Git
-
----
-
-## Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[AjMarketing](https://www.ajmarketing.pro)** | Next.js, OpenAI, Twilio | AI lead capture + WhatsApp bot with human handover |
-| **[Ahmed Academy](https://ahmed-academy.vercel.app)** | Next.js, Prisma, PostgreSQL | Full e-learning platform with auth, payments, instructor dashboard |
-| **[Garden Physio](https://www.gardenphysioclinic.com)** | Next.js 16, React 19, Next-Intl | Multilingual clinic PWA with RTL + serverless booking |
-| **[Dr. Reema](https://www.drreemaalmujaini.site)** | Next.js, Prisma, Cloudinary | Bilingual medical site + full CMS admin dashboard |
-| **[Blogo](https://www.blogoo.co)** | Next.js, i18next, Zod | Bilingual SaaS landing with Google Sheets integration |
-| **[Spylt](https://spylt-gsap-website.vercel.app)** | Next.js, GSAP | Award-inspired scroll animations + clip-path transitions |
 
 ---
 
