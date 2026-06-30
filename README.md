@@ -15,7 +15,7 @@ I build fast, accessible, production-ready web applications - from pixel-perfect
 
 <br/>
 
-📄 [Resume](https://drive.google.com/file/d/1bqUJ8yoWtSDTLNetRlG16OwcpnVVRY0N/view?usp=sharing) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Portfolio](https://ahmedragab.netlify.app) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Old Portfolio](https://ahmedragab-portfoliov1.vercel.app)
+📄 [Resume](https://drive.google.com/file/d/1bqUJ8yoWtSDTLNetRlG16OwcpnVVRY0N/view?usp=sharing) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Portfolio](https://ahmedragab-div.vercel.app) &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [Old Portfolio](https://ahmedragab-portfoliov1.vercel.app)
 
 ---
 
