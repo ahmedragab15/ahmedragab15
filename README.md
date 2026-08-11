@@ -5,13 +5,15 @@
 
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="22%"/>
 
-I build fast, accessible, production-ready web applications - from pixel-perfect landing pages to complex dashboards and e-commerce platforms.
+I build responsive, accessible, and production-ready web applications — from pixel-perfect landing pages to scalable SaaS platforms, dashboards, and e-commerce experiences.
 
-- **25+ projects** delivered as a freelancer across MENA
-- Specialized in **React, Next.js, TypeScript, and Tailwind CSS**
-- Performance-obsessed - achieved a **perfect Lighthouse score** in production
-- Contributed to the **2025 NASA Space Apps Challenge** (air quality forecasting with TEMPO satellite data)
-- Open to **full-time roles** and **freelance collaborations**
+- 30+ projects delivered as a freelancer for clients across different industries
+- Specialized in React, Next.js, TypeScript, and Tailwind CSS
+- Focused on performance, clean architecture, accessibility, SEO, and Core Web Vitals
+- Experienced with AI-assisted development using Cursor, Claude, and Codex for coding, debugging, refactoring, and technical research
+- Achieved a 100 Lighthouse score while optimizing performance and user experience
+- Contributed to the 2025 NASA Space Apps Challenge with an air-quality forecasting application using TEMPO satellite data
+- Open to full-time opportunities and freelance collaborations
 
 <br/>
 
